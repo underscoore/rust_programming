@@ -88,6 +88,7 @@ Section 2: Basics of Rust
 
 1. [Hello World!](https://youtu.be/AM52WkNoqS4)
 2. [Variables & Mutability](https://youtu.be/JXKpGkYdCAE)
+3. [Scalar Data Types](https://youtu.be/R4GPdnnx0L8)
 </details>
 
 Important: If you found any issue/typo. Please feel free to riase a PR.
